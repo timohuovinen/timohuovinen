@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timohuovinen
 - ✨ I’m interested in programming
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently writing code
 
 <!---
 timohuovinen/timohuovinen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
